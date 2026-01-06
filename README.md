@@ -15,7 +15,8 @@ Artificial Intelligence | Finance & Accounting
 ## 📫 Contact
 
 - **Email:** joyabratadas.70@gmail.com  
-- **Phone:** +91 8208429556  
+- **Phone:** +91 8208429556
+- Address : Rajarhat Newtown, Kolkata-700135
 
 ---
 
