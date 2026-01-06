@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Joyabrata Das</h1>
 
 <p align="center">
-Artificial Intelligence | Finance & Accounting
+Artificial Intelligence | Accounting & Finance
 </p>
 
 ---
