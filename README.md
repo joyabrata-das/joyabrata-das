@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+</p>
 
-<!--
-**joyabrata-das/joyabrata-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Joyabrata Das</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Artificial Intelligence | Finance & Accounting
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact
+
+- **Email:** joyabratadas.70@gmail.com  
+- **Phone:** +91 8208429556  
+
+---
+
+## 👨‍💻 About Me
+
+- Deep learning and data science enthusiast  
+- Background in finance and engineering  
+- Exploring practical AI applications for real-world business problems  
+
+---
+
+## 🛠️ Skills
+
+### Technical
+- Python, SQL  
+- Machine Learning, Deep Learning  
+- NumPy, Pandas, TensorFlow  
+- Data Analysis & Visualization  
+
+### Accounting and Finance
+- Accounting  
+- Risk Management  
+- Financial Engineering  
+
