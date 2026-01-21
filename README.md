@@ -1,5 +1,7 @@
 
-<img src="Vivekananda.jpg" width="415" height="555" align="center" style="margin-right:20px; margin-top:10px;" />
+<p align="center">
+  <img src="Vivekananda.jpg" width="415" height="555" style="margin-top:10px;" />
+</p>
 
 
 
