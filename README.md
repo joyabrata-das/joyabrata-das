@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Vivekananda.jpg" width="415" height="555" style="margin-top:10px;" />
+  <img src="Vivekananda.jpg" width="208" style="margin-top:10px;" />
 </p>
 
 
