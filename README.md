@@ -1,5 +1,5 @@
 
-<img src="Vivekananda.jpg" width="180" align="left" style="margin-right:20px; margin-top:10px;" />
+<img src="Vivekananda.jpg" width="415" height="555" align="center" style="margin-right:20px; margin-top:10px;" />
 
 
 
