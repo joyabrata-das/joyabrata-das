@@ -48,10 +48,12 @@ AI Engineering | Financial Engineering
 - Risk Management  
 - Financial Engineering
 
-## 🧠 Most Used Languages
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyabratadas&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joyabratadas&show_icons=true&theme=default&hide_border=true" />
 </p>
+
 
 
